@@ -7,10 +7,10 @@ class App extends Component {
   render() {
     return (
     <div>
-    <BrowserRouter>
+	<BrowserRouter>
 	<Page/>
 	</BrowserRouter>
-	</div>
+    </div>
     );
   }
 }
