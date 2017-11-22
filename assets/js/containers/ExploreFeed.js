@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import { Grid,Row, Col } from 'react-bootstrap';
 import AudioComponent from '../components/AudioPlayer'
-import StyledAudio from './StyledAudio'
 import axios from 'axios';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import FlatButton from 'material-ui/FlatButton';
